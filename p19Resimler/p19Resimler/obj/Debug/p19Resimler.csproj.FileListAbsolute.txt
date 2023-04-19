@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p19Resimler\p19Resimler\bin\Debug\p19Resimler.exe.config
+C:\Users\mberk\source\repos\p19Resimler\p19Resimler\bin\Debug\p19Resimler.exe
+C:\Users\mberk\source\repos\p19Resimler\p19Resimler\bin\Debug\p19Resimler.pdb
+C:\Users\mberk\source\repos\p19Resimler\p19Resimler\obj\Debug\p19Resimler.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p19Resimler\p19Resimler\obj\Debug\p19Resimler.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p19Resimler\p19Resimler\obj\Debug\p19Resimler.Form1.resources
+C:\Users\mberk\source\repos\p19Resimler\p19Resimler\obj\Debug\p19Resimler.Properties.Resources.resources
+C:\Users\mberk\source\repos\p19Resimler\p19Resimler\obj\Debug\p19Resimler.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p19Resimler\p19Resimler\obj\Debug\p19Resimler.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p19Resimler\p19Resimler\obj\Debug\p19Resimler.exe
+C:\Users\mberk\source\repos\p19Resimler\p19Resimler\obj\Debug\p19Resimler.pdb
